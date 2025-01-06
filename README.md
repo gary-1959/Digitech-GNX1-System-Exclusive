@@ -1,6 +1,7 @@
+<p align="center">
 # Digitech-GNX1-System-Exclusive
 Details of Digitech GNX1 MIDI System Exclusive Commands
-<p align="center">
+
 <img src="./images/GNX1.png" alt = "Digitech GNX1" title = "Digitech GNX1" width="600" />
 </p>
 
