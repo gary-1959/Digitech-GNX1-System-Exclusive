@@ -1,5 +1,5 @@
 
-<h1 align="center"></h1>Digitech-GNX1-System-Exclusive</h1>
+<h1 align="center">Digitech-GNX1-System-Exclusive</h1>
 <h2 align = "center">Details of Digitech GNX1 MIDI System Exclusive Commands</h2>
 <p align="center">
 <img src="./images/GNX1.png" alt = "Digitech GNX1" title = "Digitech GNX1" width="600" />
